@@ -1,0 +1,4 @@
+# trava de escrita do CLI (recriada automaticamente)
+disciplinas/*/dados/.sac.lock
+__pycache__/
+*.tmp
